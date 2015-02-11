@@ -1,0 +1,100 @@
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+id,30940,0.0,30940,tr22012,1,0.0,tr29290,1,0.0
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+id,30940,0.0,30940,tr19762,1,0.0,tr9976,1,0.0
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+id,30940,0.0,30940,tr12282,1,0.0,tr20170,1,0.0
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+id,30940,0.0,30940,tr18638,1,0.0,tr28737,1,0.0
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+id,30940,0.0,30940,tr4361,1,0.0,tr18779,1,0.0
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+id,30940,0.0,30940,tr30517,1,0.0,tr9054,1,0.0
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+id,30940,0.0,30940,tr5946,1,0.0,tr2219,1,0.0
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+id,30940,0.0,30940,tr22028,1,0.0,tr5211,1,0.0
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+id,30940,0.0,30940,tr3171,1,0.0,tr22225,1,0.0
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+occupation,29198,5.97,14, Prof-specialty,3932,13.47, Craft-repair,3887,13.31
+workclass,29205,5.94,8, Private,21576,73.88, Self-emp-not-inc,2406,8.24
+education,30940,0.0,16, HS-grad,9976,32.24, Some-college,6938,22.42
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.86
+race,30940,0.0,5, White,26442,85.46, Black,2965,9.58
+target,30940,0.0,2, <=50K,23506,75.97, >50K,7434,24.03
+id,30940,0.0,30940,tr16185,1,0.0,tr19566,1,0.0
+native-country,30386,1.82,41, United-States,27719,91.22, Mexico,607,2.0
+sex,30940,0.0,2, Male,20705,66.92, Female,10235,33.08
+relationship,30940,0.0,6, Husband,12496,40.39, Not-in-family,7904,25.55
